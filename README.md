@@ -29,5 +29,11 @@ Este proyecto consiste en un analizador léxico y sintáctico desarrollado en Py
 - `parser.py` → define gramática
 - `interfaz.py` → interfaz gráfica
 
+## 🧪 Ejemplo de uso
+
+El repositorio incluye un archivo de ejemplo (`ejemplo.json`) que puede utilizarse para probar el funcionamiento del sistema.
+
+Simplemente cargalo desde la interfaz y procesalo para generar el HTML.
+
 ## 📌 Autor
 Lucas Aguirre Montenegro
